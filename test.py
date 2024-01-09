@@ -1,0 +1,1 @@
+print("Salutare, grupa Py52")
